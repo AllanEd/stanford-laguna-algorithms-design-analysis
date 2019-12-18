@@ -1,0 +1,6 @@
+.vscode
+.idea
+cmake-build-debug
+*.out
+.DS_Store
+Info.plist
